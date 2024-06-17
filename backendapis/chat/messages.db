@@ -1,0 +1,31 @@
+{"senderId":3,"receiverId":2,"message":"hi","timestamp":{"$$date":1716634358647},"_id":"5k8qNDNf78nDoeYg"}
+{"senderId":1,"receiverId":2,"message":"hey","timestamp":{"$$date":1716633945961},"_id":"8nL41rk9OSiRfDfF"}
+{"senderId":1,"receiverId":4,"message":"hi j","timestamp":{"$$date":1716796596426},"_id":"FYuqhsCY5yWpJKVK"}
+{"senderId":1,"receiverId":6,"message":"hi p","timestamp":{"$$date":1716796568967},"_id":"IsJS5D6ganJeVvTE"}
+{"senderId":1,"receiverId":2,"message":"heu","timestamp":{"$$date":1716633976171},"_id":"Lwk9u1UmKeeJ3XcT"}
+{"senderId":1,"receiverId":3,"message":"hey","timestamp":{"$$date":1716634858615},"_id":"U4rUwKnOJGJfrQJW"}
+{"senderId":1,"receiverId":2,"message":"hi","timestamp":{"$$date":1716634901563},"_id":"UGaPK76zOPoh3pz0"}
+{"senderId":1,"receiverId":2,"message":"i ll nbe bck","timestamp":{"$$date":1716633960974},"_id":"XqJ2fgBA3iAguw9P"}
+{"senderId":1,"receiverId":2,"message":"hi","timestamp":{"$$date":1716634551532},"_id":"ZTO5sKAg8aXLlEH9"}
+{"senderId":1,"receiverId":2,"message":"hey","timestamp":{"$$date":1716634058265},"_id":"aEN140LZdpbUeOEF"}
+{"senderId":4,"receiverId":1,"message":"hi s","timestamp":{"$$date":1716796592202},"_id":"bQZ1fFzxuXct6VkB"}
+{"senderId":1,"receiverId":2,"message":"hi","timestamp":{"$$date":1716634337136},"_id":"fbm8gO9D07iKLnow"}
+{"senderId":4,"receiverId":1,"message":"hi s","timestamp":{"$$date":1716796602016},"_id":"mLSLEQ7cnZmCVUXD"}
+{"senderId":1,"receiverId":3,"message":"hi","timestamp":{"$$date":1716634573300},"_id":"rrKvKbFUdvRpp1vy"}
+{"senderId":1,"receiverId":4,"message":"jo","timestamp":{"$$date":1716796609933},"_id":"wETREA7YNYnHE9Xo"}
+{"$$deleted":true,"_id":"bQZ1fFzxuXct6VkB"}
+{"$$deleted":true,"_id":"mLSLEQ7cnZmCVUXD"}
+{"senderId":1,"receiverId":5,"message":"hi","timestamp":{"$$date":1716797753311},"_id":"KJuRvIoKRp2m7C4O"}
+{"$$deleted":true,"_id":"KJuRvIoKRp2m7C4O"}
+{"senderId":5,"receiverId":1,"message":"hey","timestamp":{"$$date":1716797774454},"_id":"m8KvHpe0rjSvIKQ4"}
+{"$$deleted":true,"_id":"m8KvHpe0rjSvIKQ4"}
+{"senderId":1,"receiverId":5,"message":"hi","timestamp":{"$$date":1716797791438},"_id":"p1eswXIgPmzStEEA"}
+{"senderId":5,"receiverId":1,"message":"hi","timestamp":{"$$date":1716797797708},"_id":"mVjTniOyMdr0iddr"}
+{"$$deleted":true,"_id":"mVjTniOyMdr0iddr"}
+{"senderId":1,"receiverId":5,"message":"hi","timestamp":{"$$date":1716797930871},"_id":"uBMIIJV5NdcaQjQI"}
+{"senderId":1,"receiverId":5,"message":"hi","timestamp":{"$$date":1716797935729},"_id":"Jsgyoapyyr81qzq0"}
+{"senderId":1,"receiverId":4,"message":"hi","timestamp":{"$$date":1716797943439},"_id":"T3BUcpVigPkCeVhM"}
+{"$$deleted":true,"_id":"FYuqhsCY5yWpJKVK"}
+{"$$deleted":true,"_id":"T3BUcpVigPkCeVhM"}
+{"$$deleted":true,"_id":"wETREA7YNYnHE9Xo"}
+{"senderId":4,"receiverId":1,"message":"hi","timestamp":{"$$date":1716797952821},"_id":"UB0p9jwuhhIfLIVJ"}
